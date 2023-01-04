@@ -13,3 +13,8 @@
     @apply cursor-pointer;
   }
 }
+
+.banner {
+  background: url(../src/assets/banner.jpg) no-repeat right center;
+  background-size: cover;
+}
