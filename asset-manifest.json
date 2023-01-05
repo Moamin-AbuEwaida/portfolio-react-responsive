@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/portfolio-react-responsive/static/css/main.519af967.css",
+    "main.js": "/portfolio-react-responsive/static/js/main.27c8f193.js",
+    "static/media/banner.jpg": "/portfolio-react-responsive/static/media/banner.bdf6e47e6e44ac0a29a0.jpg",
+    "static/media/work-4.jpg": "/portfolio-react-responsive/static/media/work-4.db491782582932fc74ff.jpg",
+    "static/media/work-3.jpg": "/portfolio-react-responsive/static/media/work-3.42b95107c86f864de7a4.jpg",
+    "static/media/about.jpg": "/portfolio-react-responsive/static/media/about.2ad1c585cc25d7e4f32d.jpg",
+    "static/media/work-2.jpg": "/portfolio-react-responsive/static/media/work-2.9b472f1a386ed5cef64d.jpg",
+    "static/media/work-5.jpg": "/portfolio-react-responsive/static/media/work-5.9b2a50114985df665dcd.jpg",
+    "static/media/contact.jpg": "/portfolio-react-responsive/static/media/contact.db2eecea6fc255cba602.jpg",
+    "static/media/skill.jpg": "/portfolio-react-responsive/static/media/skill.82c086a6d484ab6c887a.jpg",
+    "static/media/work.jpg": "/portfolio-react-responsive/static/media/work.b80b87304fcbd1247597.jpg",
+    "static/media/work-1.jpg": "/portfolio-react-responsive/static/media/work-1.9677e81f5cc1e9052e2a.jpg",
+    "static/media/logo.png": "/portfolio-react-responsive/static/media/logo.85496a06f67bb7bd55a0.png",
+    "static/media/react.png": "/portfolio-react-responsive/static/media/react.0cf951a69d8e58f83f9d.png",
+    "static/media/github.png": "/portfolio-react-responsive/static/media/github.3b9e32903aa89111875d.png",
+    "static/media/sass.png": "/portfolio-react-responsive/static/media/sass.1bfca38f6d8e9d49eb55.png",
+    "static/media/html.png": "/portfolio-react-responsive/static/media/html.2ba4fabc69a89a8f71e6.png",
+    "static/media/tailwind.png": "/portfolio-react-responsive/static/media/tailwind.e47ac876b8d4d0bba47a.png",
+    "static/media/css.png": "/portfolio-react-responsive/static/media/css.69a82c2d9e45c933a9cb.png",
+    "static/media/gsap.png": "/portfolio-react-responsive/static/media/gsap.89ec2632910971cbae81.png",
+    "static/media/javascript.png": "/portfolio-react-responsive/static/media/javascript.1ccd6ef9bb1f9c84ef00.png",
+    "index.html": "/portfolio-react-responsive/index.html",
+    "main.519af967.css.map": "/portfolio-react-responsive/static/css/main.519af967.css.map",
+    "main.27c8f193.js.map": "/portfolio-react-responsive/static/js/main.27c8f193.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.519af967.css",
+    "static/js/main.27c8f193.js"
+  ]
+}
