@@ -28,3 +28,24 @@
   background: url(../src/assets/skill.jpg) no-repeat right center;
   background-size: cover;
 }
+
+.work {
+  background: url(../src/assets/work.jpg) no-repeat right center;
+  background-size: cover;
+}
+
+.content-div {
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  width: 250px;
+  height: 250px;
+}
+
+.content-div:hover {
+  background-image: linear-gradient(
+    to right,
+    rgba(112, 188, 255, 0.7),
+    hsla(190, 74%, 61%, 0.7)
+  ) !important;
+}
