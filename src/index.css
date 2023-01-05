@@ -49,3 +49,8 @@
     hsla(190, 74%, 61%, 0.7)
   ) !important;
 }
+
+.contact {
+  background: url(../src/assets/contact.jpg) no-repeat right center;
+  background-size: cover;
+}
