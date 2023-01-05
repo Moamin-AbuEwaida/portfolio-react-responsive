@@ -23,3 +23,8 @@
   background: url(../src/assets/about.jpg) no-repeat right center;
   background-size: cover;
 }
+
+.skill {
+  background: url(../src/assets/skill.jpg) no-repeat right center;
+  background-size: cover;
+}
